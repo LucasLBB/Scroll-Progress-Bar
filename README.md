@@ -1,6 +1,6 @@
 # Scroll-Progress-Bar
 
-<img src="https://media.giphy.com/media/UW1kp8haQvaawnOIki/giphy.gif">
+<img src="https://media.giphy.com/media/j65sqVDUcA3ALM1odx/giphy.gif">
 
 ## Technologies
 
